@@ -18,6 +18,14 @@
       <module fileurl="file://$PROJECT_DIR$/Lesson_22/HW_22/HW_22.iml" filepath="$PROJECT_DIR$/Lesson_22/HW_22/HW_22.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_23/HW_23/HW_23.iml" filepath="$PROJECT_DIR$/Lesson_23/HW_23/HW_23.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_24/HW_24/HW_24.iml" filepath="$PROJECT_DIR$/Lesson_24/HW_24/HW_24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_26/HW_26/HW_26.iml" filepath="$PROJECT_DIR$/Lesson_26/HW_26/HW_26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_27/HW_27/HW_27.iml" filepath="$PROJECT_DIR$/Lesson_27/HW_27/HW_27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_28/HW_28/HW_28.iml" filepath="$PROJECT_DIR$/Lesson_28/HW_28/HW_28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_29/HW_29/HW_29.iml" filepath="$PROJECT_DIR$/Lesson_29/HW_29/HW_29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_29/HW_29_1/HW_29_1.iml" filepath="$PROJECT_DIR$/Lesson_29/HW_29_1/HW_29_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_30/HW_30/HW_30.iml" filepath="$PROJECT_DIR$/Lesson_30/HW_30/HW_30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_31/HW_31/HW_31.iml" filepath="$PROJECT_DIR$/Lesson_31/HW_31/HW_31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_31/HW_31_1/HW_31_1.iml" filepath="$PROJECT_DIR$/Lesson_31/HW_31_1/HW_31_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/basic_pro.iml" filepath="$PROJECT_DIR$/.idea/basic_pro.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_13/demo20250602_2/demo20250602_2.iml" filepath="$PROJECT_DIR$/Lesson_13/demo20250602_2/demo20250602_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_14/demo20250603_1/demo20250603_1.iml" filepath="$PROJECT_DIR$/Lesson_14/demo20250603_1/demo20250603_1.iml" />
@@ -27,6 +35,12 @@
       <module fileurl="file://$PROJECT_DIR$/Lesson_16/demo20250605/demo20250605.iml" filepath="$PROJECT_DIR$/Lesson_16/demo20250605/demo20250605.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_17/demo20250606/demo20250606.iml" filepath="$PROJECT_DIR$/Lesson_17/demo20250606/demo20250606.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_18/demo20250610/demo20250610.iml" filepath="$PROJECT_DIR$/Lesson_18/demo20250610/demo20250610.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_27/demo20250623/demo20250623.iml" filepath="$PROJECT_DIR$/Lesson_27/demo20250623/demo20250623.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_28/demo20250624_smart/demo20250624_smart.iml" filepath="$PROJECT_DIR$/Lesson_28/demo20250624_smart/demo20250624_smart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_29/demo20250625_1/demo20250625_1.iml" filepath="$PROJECT_DIR$/Lesson_29/demo20250625_1/demo20250625_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_31/demo20250627_1/demo20250627_1.iml" filepath="$PROJECT_DIR$/Lesson_31/demo20250627_1/demo20250627_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_26/demo_20250620/demo_20250620.iml" filepath="$PROJECT_DIR$/Lesson_26/demo_20250620/demo_20250620.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_30/deno20250626_1/deno20250626_1.iml" filepath="$PROJECT_DIR$/Lesson_30/deno20250626_1/deno20250626_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_13/hello_java/hello_java.iml" filepath="$PROJECT_DIR$/Lesson_13/hello_java/hello_java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_14/hw20250603_1/hw20250603_1.iml" filepath="$PROJECT_DIR$/Lesson_14/hw20250603_1/hw20250603_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_15/hw20250604/hw20250604.iml" filepath="$PROJECT_DIR$/Lesson_15/hw20250604/hw20250604.iml" />
@@ -40,6 +54,14 @@
       <module fileurl="file://$PROJECT_DIR$/Lesson_23/hw20250617/hw20250617.iml" filepath="$PROJECT_DIR$/Lesson_23/hw20250617/hw20250617.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_24/hw20250618/hw20250618.iml" filepath="$PROJECT_DIR$/Lesson_24/hw20250618/hw20250618.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson_25/hw20250619/hw20250619.iml" filepath="$PROJECT_DIR$/Lesson_25/hw20250619/hw20250619.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_26/hw20250620/hw20250620.iml" filepath="$PROJECT_DIR$/Lesson_26/hw20250620/hw20250620.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_27/hw20250623/hw20250623.iml" filepath="$PROJECT_DIR$/Lesson_27/hw20250623/hw20250623.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_28/hw20250624/hw20250624.iml" filepath="$PROJECT_DIR$/Lesson_28/hw20250624/hw20250624.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_29/hw20250625/hw20250625.iml" filepath="$PROJECT_DIR$/Lesson_29/hw20250625/hw20250625.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_29/hw20250625_1/hw20250625_1.iml" filepath="$PROJECT_DIR$/Lesson_29/hw20250625_1/hw20250625_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_30/hw20250626/hw20250626.iml" filepath="$PROJECT_DIR$/Lesson_30/hw20250626/hw20250626.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_30/hw20250626_2/hw20250626_2.iml" filepath="$PROJECT_DIR$/Lesson_30/hw20250626_2/hw20250626_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_31/hw20250627/hw20250627.iml" filepath="$PROJECT_DIR$/Lesson_31/hw20250627/hw20250627.iml" />
     </modules>
   </component>
 </project>
