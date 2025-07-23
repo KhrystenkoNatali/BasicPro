@@ -1,10 +1,5 @@
 package app;
 
-import app.model.Bus;
-import app.model.Car;
-import app.model.Truck;
-import app.model.Vehicle;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;

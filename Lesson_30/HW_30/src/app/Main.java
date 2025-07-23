@@ -17,11 +17,6 @@ package app;
 
 // Группа 68m
 
-import app.model.Bus;
-import app.model.Car;
-import app.model.Truck;
-import app.model.Vehicle;
-
 public class Main {
     public static void main(String[] args) {
         Vehicle[] vehicles = {
